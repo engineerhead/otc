@@ -1,0 +1,1 @@
+5a4375398a0aa5dad306caf9ed3eaa006981e8c662f7636cb13d50c15b1b435b  ./target/wasm32-unknown-unknown/release/assignment.wasm
